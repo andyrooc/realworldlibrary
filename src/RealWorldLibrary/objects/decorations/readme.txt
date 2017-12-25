@@ -6,4 +6,3 @@ Gates
 Movable Fences
 Traffic Cones
 Boxes
-
