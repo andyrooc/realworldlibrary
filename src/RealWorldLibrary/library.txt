@@ -1,0 +1,24 @@
+A
+800
+LIBRARY
+
+# https://developer.x-plane.com/?article=library-library-txt-file-format-specification
+
+# EXPORT <virtual path> <real path>
+
+# EXPORT_RATIO <quantity> <virtual path> <real path>
+
+# EXPORT_EXTEND <virtual path> <real path>
+
+# REGION_DEFINE <name>
+
+# REGION_RECT <w> <s> <e> <n>
+
+# REGION_BITMAP <file name>
+
+# REGION <name>
+
+#EXPORT_EXCLUDE <virtual path> <real path>
+
+EXPORT_BACKUP <virtual path> <real path>
+
