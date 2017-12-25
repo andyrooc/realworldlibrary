@@ -21,14 +21,14 @@ After you have the structure on your disk, look for the **RealWorldLibrary** pat
 
 e.g.:
 *(windows cmd prompt)
-cd realworldlibrary\src
+`cd realworldlibrary\src
 ren RealWorldLibrary JoesAircraftLibrary
-copy JoesAircraftLibrary "\X-Plane\Custom Scenery"
+copy JoesAircraftLibrary "\X-Plane\Custom Scenery"`
 
 *(osx or Linux terminal prompt)
-cd realworldlibrary/src
+`cd realworldlibrary/src
 mv RealWorldLibrary JoesAircraftLibrary
-cp JoesAircraftLibrary "~/X-Plane/Custom Scenery"
+cp JoesAircraftLibrary "~/X-Plane/Custom Scenery"`
 
 ## Standards & Conventions
 
