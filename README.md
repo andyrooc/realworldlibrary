@@ -32,6 +32,8 @@ e.g.:
 `mv RealWorldLibrary JoesAircraftLibrary`  
 `cp JoesAircraftLibrary "~/X-Plane/Custom Scenery"`  
 
+NOTE: While it is possible to replicate the structure purely through a properly compiled library.txt, and without using the structure for files, it is probably organisationally easier to use the structure for files as well, and it is easier for to use a tool to generate your library.txt    
+
 ## Standards & Conventions
 
 Here we specify a few different ways you can help make your library more useable, and more popular by making it easy for scenery designers to find and use your creations.
