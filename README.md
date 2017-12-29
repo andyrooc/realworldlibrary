@@ -4,7 +4,7 @@
 
 The goal of this project is to create a common X-Plane scenery library structure that any library developer can use to populate with their own creative works. This makes it easier for both the library builder, and for the scenery designer to populate and use the library.
 
-"RealWorldLibrary" is the name of this standard. It is not the name used by a library author.
+"RealWorldLibrary" should not be used by library authors. It is the name of this standard and associated free library.
 
 ### Get The Structure
 
