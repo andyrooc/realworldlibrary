@@ -18,7 +18,7 @@ LIBRARY
 
 # REGION <name>
 
-#EXPORT_EXCLUDE <virtual path> <real path>
+# EXPORT_EXCLUDE <virtual path> <real path>
 
-EXPORT_BACKUP <virtual path> <real path>
+# EXPORT_BACKUP <virtual path> <real path>
 
